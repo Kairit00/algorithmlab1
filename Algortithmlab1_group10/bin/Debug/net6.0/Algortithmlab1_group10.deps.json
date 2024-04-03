@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algortithmlab1_group10/1.0.0": {
+        "runtime": {
+          "Algortithmlab1_group10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algortithmlab1_group10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

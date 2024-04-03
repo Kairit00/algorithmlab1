@@ -1,0 +1,14 @@
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.AssemblyInfoInputs.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.AssemblyInfo.cs
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.csproj.CoreCompileInputs.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\bin\Debug\net6.0\Algortithmlab1_group10.exe
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\bin\Debug\net6.0\Algortithmlab1_group10.deps.json
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\bin\Debug\net6.0\Algortithmlab1_group10.runtimeconfig.json
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\bin\Debug\net6.0\Algortithmlab1_group10.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\bin\Debug\net6.0\Algortithmlab1_group10.pdb
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\refint\Algortithmlab1_group10.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.pdb
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\Algortithmlab1_group10.genruntimeconfig.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\Algortithmlab1_group10\obj\Debug\net6.0\ref\Algortithmlab1_group10.dll
